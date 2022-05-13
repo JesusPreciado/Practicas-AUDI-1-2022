@@ -1,4 +1,4 @@
 # Practica 1
 # Jesus Preciado
 
-print("Hello Word")
+print("Hello World")
