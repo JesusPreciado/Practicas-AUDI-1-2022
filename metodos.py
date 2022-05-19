@@ -28,12 +28,18 @@ def inicio():
     
 def finalizar():
     print("Luces encendidas a todo color.")
-
+       
 def timer(minutos):
     print("Inicio conteo de 15" + str(minutos))
     #falta funcion que cuente los 15 minutos
     print("Finaliza conteo de 15 minutos")
-
+    
+def luces(tono, color):
+    print("Se establece el color:")
+    print("Color establecido y el tono")
+    print("Se establece el color a: " + color)
+    print("Tono estaclecido a: " + str(tono))
+    
 def etapaUno():
     print("Etapa Uno iniciada")
     timer(varLapso)
