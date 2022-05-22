@@ -1,4 +1,4 @@
-# Práctoca 6, Calculadora
+# Práctica 6, Calculadora
 # Jesús Preciado
 
 # 4 Opreación básicas (+ - * /)
